@@ -18,7 +18,7 @@ GitHub te mostrará comandos. Usa la opción **"…or push an existing repositor
 ```bash
 cd "c:\Users\DFT\Downloads\app impreco"
 
-git remote add origin https://github.com/TU_USUARIO/app-impreco.git
+git remote add origin https://github.com/ClowShadow/app-impreco.git
 git branch -M main
 git push -u origin main
 ```
