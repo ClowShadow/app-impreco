@@ -12,8 +12,5 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ],
-  "env": {
-    "MONGODB_URI": "mongodb+srv://Vercel-Admin-imprecodb:1z7A82ds4lOR47un@imprecodb.sdnsemd.mongodb.net/?retryWrites=true&w=majority"
-  }
+  ]
 }
